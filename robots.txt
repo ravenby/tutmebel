@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://how-to-meet.ru/sitemap.xml
-Host: how-to-meet.ru
+Sitemap: http://tutmebel.by/kuhni/sitemap.xml
+Host: tutmebel.by
